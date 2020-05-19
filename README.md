@@ -1,4 +1,4 @@
-# ChatApp
+# SportsChatApp
 
 To start your Phoenix server:
 
